@@ -1,4 +1,5 @@
 .idea
-.*
-keycloak/realm-export.json
-postgres-keycloak-data
+sso/.*
+sso/keycloak/realm-export.json
+sso/postgres-keycloak-data
+dwh/.*
